@@ -1,0 +1,9 @@
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\obj\Debug\Sean_Console.csprojResolveAssemblyReference.cache
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\Sean_Console.exe.config
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\Sean_Console.exe
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\Sean_Console.pdb
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\Sean_Library.dll
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\Sean_Library.pdb
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\obj\Debug\Sean_Console.exe
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\obj\Debug\Sean_Console.pdb
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Console\bin\Debug\SeanBaseXMLTemplate.xml

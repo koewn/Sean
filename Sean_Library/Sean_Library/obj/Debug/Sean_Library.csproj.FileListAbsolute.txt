@@ -1,0 +1,10 @@
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\bin\Debug\Sean_Library.dll
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\bin\Debug\Sean_Library.pdb
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.csprojResolveAssemblyReference.cache
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.dll
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.pdb
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Interop.DMCSCRIPTINGLib.dll
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.csproj.ResolveComReference.cache
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\bin\Debug\SeanBaseXMLTemplate.xml
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.Properties.Resources.resources
+C:\Users\Koen\Documents\Visual Studio 2017\Projects\Sean_Library\Sean_Library\obj\Debug\Sean_Library.csproj.GenerateResource.Cache
